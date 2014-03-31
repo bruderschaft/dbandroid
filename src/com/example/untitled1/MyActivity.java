@@ -13,7 +13,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 
-public class MyActivity extends Activity {
+public class MyActivity extends Activity implements OnClickListener{
     final String LOG_TAG = "myLogs";
 
     Button btnAdd, btnRead, btnClear;
@@ -77,6 +77,7 @@ public class MyActivity extends Activity {
                 // ставим позицию курсора на первую строку выборки
                 // если в выборке нет строк, вернется false
                 if (c.moveToFirst()) {
+
 
                     // определяем номера столбцов по имени в выборке
                     int idColIndex = c.getColumnIndex("id");
