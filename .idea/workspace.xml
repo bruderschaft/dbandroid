@@ -15,9 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52e7c653-cf92-47b2-8036-e7475a78988e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/untitled1/DBHelper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/untitled1/MyActivity.java" afterPath="$PROJECT_DIR$/src/com/example/untitled1/MyActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled1.iws" />
@@ -82,10 +81,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/untitled1/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="60" selection-start="2144" selection-end="2144" vertical-scroll-proportion="0.41457286" vertical-offset="855" max-vertical-offset="2250">
+            <state line="16" column="36" selection-start="514" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBHelper.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/untitled1/DBHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="4" selection-start="268" selection-end="268" vertical-scroll-proportion="-0.3138686" vertical-offset="249" max-vertical-offset="660">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,6 +130,7 @@
       <list>
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/src/com/example/untitled1/MyActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/untitled1/DBHelper.java" />
       </list>
     </option>
   </component>
@@ -244,6 +255,26 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -400,6 +431,11 @@
       <created>1396276299999</created>
       <updated>1396276299999</updated>
     </task>
+    <task id="LOCAL-00001" summary="ddd">
+      <created>1396278461603</created>
+      <updated>1396278461603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -446,6 +482,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="ddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ddd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -467,7 +505,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/untitled1/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="60" selection-start="2144" selection-end="2144" vertical-scroll-proportion="0.41457286" vertical-offset="855" max-vertical-offset="2250">
+        <state line="16" column="36" selection-start="514" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1755">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/untitled1/DBHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="268" selection-end="268" vertical-scroll-proportion="-0.3138686" vertical-offset="249" max-vertical-offset="660">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
